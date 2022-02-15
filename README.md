@@ -18,7 +18,15 @@ due campi di arca inserendoli nella lista.
 ## Utilizzo
 Sarà possibile incollare i seguenti dati recuperati dalla clipboard di Windows:
 * Codice Articolo
+* Descrizione
 * Quantita
+* Unità di misura
+* Prezzo Unitario
+* Data Consegna
+* SottoCommessa
+* Codice Lotto
+* Note Riga
+* Padre/Componente
 
 In alternativa ad Excel sarà possibile utilizzare il Notepad di Windows. I valori codice Articolo e Quantità
 devono essere separati da TAB.
