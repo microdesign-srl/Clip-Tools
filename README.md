@@ -32,5 +32,3 @@ In alternativa ad Excel sarà possibile utilizzare il Notepad di Windows. I valo
 devono essere separati da TAB.
 In tutti i casi è possibile effettuare anche la sola selezione del codice Articolo della clipboard e incollarlo in
 Arca (tutte le quantità vengono impostate a zero).
-
-## Test GIT
